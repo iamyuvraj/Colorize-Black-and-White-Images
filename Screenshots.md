@@ -1,4 +1,4 @@
-#Implementation
+Implementation
 
 Here are some screenshots of the working project:
 
