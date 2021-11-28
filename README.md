@@ -1,15 +1,24 @@
 # Colorize-Black-White-Images
+*****
 This is a python based project on Colourizing Black and White Images using Deep Learning. 
+*****
+
+How to setup:
 In order to run the program we will be needing a few libraries, modules and dependencies.
 
-Create a folder called "venv" and install the following modules:
+First, Create a folder called "venv" and install the following modules:
 
-*
+*****
+
 OpenCV - pip install opencv-python
+
 Pillow - pip install pillow
+
 NumPy - pip install numpy
+
 TKinter - pip install tk
-*
+
+*****
 
 "venv" folder should look like this:
 ![venv folder](ref_images/image2.png "Venv Folder Contents")
