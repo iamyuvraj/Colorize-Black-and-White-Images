@@ -1,5 +1,3 @@
-Implementation
-
 Here are some screenshots of the working project:
 
 The overall UI of the application:
