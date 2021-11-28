@@ -4,12 +4,12 @@ In order to run the program we will be needing a few libraries, modules and depe
 
 Create a folder called "venv" and install the following modules:
 
-/
+*
 OpenCV - pip install opencv-python
 Pillow - pip install pillow
 NumPy - pip install numpy
 TKinter - pip install tk
-/
+*
 
 "venv" folder should look like this:
 ![venv folder](ref_images/image2.png "Venv Folder Contents")
