@@ -25,9 +25,9 @@ TKinter - pip install tk
 ![venv folder](ref_images/image2.png "Venv Folder Contents")
 
 Now, inside the "models" folder there should be three files:
-[1.] colorization_deploy_v2.prototxt
-[2.] pts_in_hull.npy
-[3.] colorization_release_v2.caffemodel
+[1.] colorization_deploy_v2.prototxt<br>
+[2.] pts_in_hull.npy<br>
+[3.] colorization_release_v2.caffemodel<br>
 
 "colorization_release_v2.caffemodel" file is not included because of large file size, we need to download, it can be found [here](https://drive.google.com/drive/folders/1FaDajjtAsntF_Sw5gqF0WyakviA5l8-a) 
 "I don't have these files on my drive, credits to the file hoster."
