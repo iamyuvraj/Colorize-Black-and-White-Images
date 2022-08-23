@@ -24,7 +24,7 @@ TKinter - pip install tk
 "venv" folder should look like this:
 ![venv folder](ref_images/image2.png "Venv Folder Contents")
 
-Now, inside the "models" folder there should be three files:
+Now, inside the "models" folder there should be three files:<br>
 [1.] colorization_deploy_v2.prototxt<br>
 [2.] pts_in_hull.npy<br>
 [3.] colorization_release_v2.caffemodel<br>
