@@ -9,8 +9,6 @@ In order to run the program we will be needing a few libraries, modules and depe
 
 First, Create a folder called "venv" and install the following modules:
 
-*****
-
 OpenCV - pip install opencv-python
 
 Pillow - pip install pillow
