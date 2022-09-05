@@ -1,4 +1,4 @@
-# Colorize-Black-White-Images
+# Colorize Black and White Images
 *****
 This is a python based project on Colourizing Black and White Images using Deep Learning. 
 [Click Here to view the screenshots of the project.](https://github.com/iamyuvraj/Colorize-Black-White-Images/blob/main/Screenshots.md)
