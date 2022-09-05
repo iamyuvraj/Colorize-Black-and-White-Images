@@ -1,6 +1,6 @@
 Here are some screenshots of the working project:
 
-The overall UI of the application:
+The overall UI of the Application:
 ![User Interface](screenshots/ui.png "UI of the Application")
 
 Sample Output 1
