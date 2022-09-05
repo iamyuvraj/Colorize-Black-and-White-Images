@@ -27,7 +27,7 @@ Now, inside the "models" folder there should be three files:<br>
 [2.] pts_in_hull.npy<br>
 [3.] colorization_release_v2.caffemodel<br>
 
-"colorization_release_v2.caffemodel" file is not included because of large file size, we need to download, it can be found [here](https://drive.google.com/drive/folders/1FaDajjtAsntF_Sw5gqF0WyakviA5l8-a)<br>
+"colorization_release_v2.caffemodel" file is not included because of large file size, we need to download, it can be found [here.](https://drive.google.com/drive/folders/1FaDajjtAsntF_Sw5gqF0WyakviA5l8-a)<br>
 P.S. I don't have these files on my drive, credits to the file hoster.
 
 After having all the files the "models" folder should look like this:
